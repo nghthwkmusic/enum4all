@@ -11,7 +11,7 @@ Enum4All is a Python-based command-line tool that acts as a wrapper for `enum4li
 ## Requirements
 - Python 3
 - `enum4linux`
-- 
+
 ## Installation
 Before using Enum4All, ensure that you have `enum4linux` installed on your system.
 ### Installing `enum4linux`
